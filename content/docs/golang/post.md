@@ -7,3 +7,5 @@ draft: false
 ## This is example post
 
 this post still have for example of contents.
+
+![1](/docs/golang/images/go_logo.png)
